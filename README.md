@@ -42,7 +42,7 @@ The analysis highlights several important factors influencing customer churn, su
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/customer-churn-analysis.git
+   git clone https://github.com/JoshuaPaul-lasisi/customer-churn-analysis.git
    ```
 2. **Open the Excel Workbook**: Open `Customer_Churn_Analysis.xlsx` to explore the analysis.
 3. **Review the Documentation**: Read through the additional documentation for a detailed understanding of the methodology and findings.
